@@ -4,4 +4,3 @@ test-results.xml
 .env-test
 redis-data/
 db/
-lib
